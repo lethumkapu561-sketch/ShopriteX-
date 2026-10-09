@@ -1,0 +1,34 @@
+# Circular Christmas Advent Calendar
+
+Copy everything inside the code block below and paste it into Google Flow.
+
+```text
+COMMAND: Generate exactly one photorealistic lifestyle product advertisement, square 1000×1000 pixels, PNG.
+
+PRODUCT (use ONLY this exact item from the reference images – nothing else, no invented details):
+- Circular / round Christmas Advent calendar with 24 numbered segments
+- Bright colourful segments in red, green, blue, yellow, orange and white
+- Each segment features Christmas icons (trees, stars, gifts, holly, etc.)
+- Clear numbers 1 to 24 visible on the segments
+- “MERRY CHRISTMAS” text present on the product
+- Accurate printed details, colours and 3D ring/wheel shape from the reference images
+
+The Advent calendar must be fully visible, sharp, and the absolute main focus occupying the majority of the frame. No packaging. No closed box as the hero.
+
+SCENE (non-negotiable):
+- Simple elegant festive home interior, soft natural daylight
+- One real Christmas tree in the soft background with only subtle gold or silver tinsel on the tree
+- Calendar placed naturally on a plain wooden table, shelf or mantel near the tree, demonstrating real home use
+- Maximum 2–3 very subtle festive accents only
+- No snow, no heavy Christmas decorations, no clutter
+
+STRICT FORBIDDEN:
+- Any extra text, numbers, logos, brand names, price tags, labels or signage that is not part of the original product
+- Shoprite or any store branding, shopping aisles, crowds
+- Box shots or fully packaged product as the main subject
+- Multiple people or any full face
+- If a real person is needed for scale, show only one hand or partial arm from behind, product remains dominant
+- Winter snow, excessive decorations, competing objects
+
+Final order: The exact circular Advent calendar with all numbered segments and original details must be clearly visible and dominant. Zero deviation from these constraints.
+```

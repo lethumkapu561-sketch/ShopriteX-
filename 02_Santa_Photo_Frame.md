@@ -1,0 +1,30 @@
+# Santa Photo Frame
+
+Copy everything inside the code block below and paste it into Google Flow.
+
+```text
+COMMAND: Generate exactly one photorealistic lifestyle product advertisement, square 1000×1000 pixels, PNG.
+
+PRODUCT (use ONLY this exact item from the reference images – nothing else, no invented versions, no boxes, no packaging):
+- Red wooden Santa Claus photo frame with white fluffy beard, red Santa hat with white trim and white pom-pom, green holly with three red berries on the hat, black eyes, red nose, pink cheeks, red body with white stars, black mitten hands, circular photo opening in the centre showing a family photo, red rectangular base stand. Photo area size exactly 12.7 cm × 12.7 cm. Accurate colours, realistic wood texture, clean printed details.
+
+The single product must be fully visible, sharp, dominant, and occupy the majority of the frame. No packaging. No boxes. No price tags. No labels. No text of any kind on the image. No logos.
+
+SCENE (non-negotiable):
+- Product is the absolute main focus
+- Simple elegant festive home interior, soft natural daylight
+- One real Christmas tree in the soft background with only subtle gold or silver tinsel on the tree
+- Frame standing naturally on a plain wooden shelf or side table near the tree, demonstrating real home use
+- Maximum 2–3 very subtle festive accents only
+- No snow, no heavy Christmas decorations, no clutter
+
+STRICT FORBIDDEN:
+- Any text, numbers, logos, brand names, price tags, labels, signage
+- Shoprite or any store branding, shopping aisles, crowds
+- Box shots or packaged products
+- Multiple people or any full face visible outside the photo inside the frame
+- If a real person is needed for scale, show only one hand or partial arm from behind, product remains dominant
+- Winter snow, excessive decorations, competing objects
+
+Final order: The exact Santa photo frame described above must be clearly visible and the only product. Zero deviation from these constraints.
+```

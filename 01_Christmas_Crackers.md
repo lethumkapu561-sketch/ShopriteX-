@@ -1,0 +1,35 @@
+# Christmas Crackers
+
+Copy everything inside the code block below and paste it into Google Flow.
+
+```text
+COMMAND: Generate exactly one photorealistic lifestyle product advertisement, square 1000×1000 pixels, PNG.
+
+PRODUCTS (use ONLY these exact Christmas crackers from the reference images – nothing else, no invented designs, no boxes, no packaging):
+1. Dark green cracker with white mistletoe berries and leaves, red ribbon ties
+2. Bright red cracker with green mistletoe berries and leaves, red ribbon ties
+3. White cracker with red, green and pink bow-and-stripe pattern, red ribbon ties
+4. White cracker with gold and silver leaf pattern, gold ribbon ties
+5. White cracker with red holly berries and leaves, red ribbon ties
+6. Red-and-white diagonal candy-stripe cracker, red ribbon ties
+
+All six designs must be fully visible, sharp, accurate colours, realistic paper texture and metallic ribbon shine. Show multiple crackers of each design so every pattern is clearly readable. No boxes. No packaging. No price tags. No labels. No text. No logos.
+
+SCENE (non-negotiable):
+- Products are the absolute main focus and occupy most of the frame
+- Simple elegant festive home interior, soft natural daylight
+- One real Christmas tree in the soft background with only subtle gold or silver tinsel on the tree
+- Crackers neatly arranged and casually placed around the base of the tree, on a low shelf or on the edge of a plain wooden side table – demonstrating natural home use
+- Maximum 2–3 very subtle festive accents only
+- No snow, no heavy Christmas decorations, no clutter
+
+STRICT FORBIDDEN:
+- Any text, numbers, logos, brand names, price tags, labels, signage
+- Shoprite or any store branding, shopping aisles, crowds
+- Box shots or packaged products
+- Multiple people or any full face
+- If a real person is needed for scale, show only one hand or partial arm from behind, products remain dominant
+- Winter snow, excessive decorations, competing objects
+
+Final order: Every single product design listed above must be clearly visible and dominant. Zero deviation from these constraints.
+```
