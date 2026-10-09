@@ -1,0 +1,34 @@
+COMMAND: Generate exactly one photorealistic lifestyle product advertisement, square 1000×1000 pixels, PNG.
+
+PRODUCTS (use ONLY these exact books from the reference images – nothing else, no invented covers, no boxes):
+1. Blue-covered “ULTIMATE ACTIVITY BOOK WITH STICKERS CHRISTMAS EDITION”
+   - Green circle “OVER 100 STICKERS INCLUDED”
+   - Red circle “OVER 24 PAGES OF COLOURING ACTIVITIES & PUZZLES”
+   - Cute reindeer holding a red pencil, snow-covered signpost, Christmas tree with ornaments, robin, “MAKE SANTA” sticker page preview
+   - All original cover text, logos and artwork must be sharp, accurate and fully readable
+
+2. Red-covered “ULTIMATE COLOUR BY NUMBERS CHRISTMAS EDITION”
+   - Green circle “60 PAGES TO COLOUR”
+   - Cute elf holding a red pencil, nutcracker soldier, colour-by-numbers example page, robin, candy cane
+   - All original cover text, logos and artwork must be sharp, accurate and fully readable
+
+Both books must be fully visible, standing or lying naturally, covers facing camera so every logo, title and detail is clear and legible. Accurate colours, realistic paper and print texture. No packaging. No closed retail boxes.
+
+SCENE (non-negotiable):
+- Both books are the absolute main focus and occupy most of the frame
+- Simple elegant festive home interior, soft natural daylight
+- One real Christmas tree in the soft background with only subtle gold or silver tinsel on the tree
+- Books placed naturally on a plain wooden table or shelf near the tree, demonstrating real home use
+- Optional: one or two coloured pencils or a small sheet of stickers lying beside the books to show usage
+- Maximum 2–3 very subtle festive accents only
+- No snow, no heavy Christmas decorations, no clutter
+
+STRICT FORBIDDEN:
+- Any extra text, numbers, price tags, labels or signage that is not part of the original book covers
+- Shoprite or any store branding, shopping aisles, crowds
+- Box shots or packaged product as the main subject
+- Multiple people or any full face
+- If a real person is needed for scale, show only one hand or partial arm from behind, books remain dominant
+- Winter snow, excessive decorations, competing objects
+
+Final order: Both exact book covers with every original logo and text must be clearly visible and dominant. Zero deviation from these constraints.
