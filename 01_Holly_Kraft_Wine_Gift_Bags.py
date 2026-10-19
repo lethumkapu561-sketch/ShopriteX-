@@ -19,6 +19,7 @@ SCENE (non-negotiable):
 - Maximum 2–3 very subtle festive accents only
 - No snow, no heavy Christmas decorations, no clutter
 
+
 STRICT FORBIDDEN:
 - Any extra text, numbers, logos, brand names, price tags, labels or signage
 - Shoprite or any store branding, shopping aisles, crowds
